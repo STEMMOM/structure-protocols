@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "M-PPS v1.1 Schema (placeholder)",
+  "type": "object",
+  "properties": {
+    "goal": { "type": "array" },
+    "schedule": { "type": "array" },
+    "task": { "type": "array" },
+    "reflection": { "type": "array" },
+    "contact": { "type": "array" }
+  },
+  "required": ["goal", "schedule", "task"],
+  "additionalProperties": true
+}

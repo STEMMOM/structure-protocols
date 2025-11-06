@@ -1,0 +1,12 @@
+{
+  "protocol_id": "m-pps",
+  "version": "v1.1",
+  "source_folder": "/Users/susanfeltner/Documents/Proofs/M-PPS-v1.1",
+  "source_spec": "M-PPS-Specification v1.1.md",
+  "verified_hash": "e0881bbf6a26140e58d399fd45a46e3be989940b5d852bf6c68aacf0c5d031ba",
+  "did": "did:key:z6Mkff71g8KC2qxWegsCwDYsnCMMtH7AcYNcuUcbVTNL53NC",
+  "manifest_file": "proof.manifest.json",
+  "copied_at": "2025-11-06T23:03:54Z",
+  "verified_by": "Entropy Control Theory by Susan STEM",
+  "notes": "Linked to original signed proof materials."
+}
