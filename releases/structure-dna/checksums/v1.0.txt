@@ -1,0 +1,2 @@
+# Structure DNA v1.0 checksum
+spec.md  SHA256  741328a5a6bf48543526371eb63c113786b4656b4aa87f993d52fe14f5db0c0e
