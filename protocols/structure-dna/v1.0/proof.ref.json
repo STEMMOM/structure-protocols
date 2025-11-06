@@ -1,0 +1,12 @@
+{
+  "protocol_id": "structure-dna",
+  "version": "v1.0",
+  "source_folder": "/Users/susanfeltner/Documents/Proofs/Structure_DNA-v1.0",
+  "source_spec": "Structure_DNA_v1.0.md",
+  "verified_hash": "741328a5a6bf48543526371eb63c113786b4656b4aa87f993d52fe14f5db0c0e",
+  "did": "did:key:z6Mkff71g8KC2qxWegsCwDYsnCMMtH7AcYNcuUcbVTNL53NC",
+  "manifest_file": "proof.manifest.json",
+  "copied_at": "2025-11-06T00:00:00Z",
+  "verified_by": "Entropy Control Theory by Susan STEM",
+  "notes": "Read-only reference linking public spec.md to original signed proof folder."
+}

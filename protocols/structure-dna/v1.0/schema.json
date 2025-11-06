@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Structure DNA v1.0 Schema (placeholder)",
+  "type": "object",
+  "description": "Machine-readable schema for Structure DNA v1.0",
+  "additionalProperties": true
+}
