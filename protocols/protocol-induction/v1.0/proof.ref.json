@@ -1,0 +1,19 @@
+{
+  "protocol_id": "protocol-induction",
+  "version": "v1.0",
+  "verified_hash": "486d7c3233c9b9a7de5bb8de07b033060d1eb85a9145b85e0a7e92ef9c6d394b",
+  "did": "did:key:z6Mkff71g8KC2qxWegsCwDYsnCMMtH7AcYNcuUcbVTNL53NC",
+  "proof_formats": ["jwt","ldp"],
+  "artifacts": {
+    "unsigned": "credential-unsigned.json",
+    "unsigned_ldp": "credential-unsigned-ldp.json",
+    "jwt_vc": "credential.jwt",
+    "ldp_vc": "credential.ldp.json",
+    "verify": "VERIFY.md"
+  },
+  "source_folder": "/Users/susanfeltner/Documents/Proofs/Protocol_Induction-v1.0",
+  "source_spec": "spec.md",
+  "copied_at": "2025-11-09T01:03:15Z",
+  "verified_by": "Entropy Control Theory by Susan STEM",
+  "notes": "Reference to the signed Proof layer located at /Users/susanfeltner/Documents/Proofs/Protocol_Induction-v1.0."
+}

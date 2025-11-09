@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Protocol Induction v1.0 Schema (placeholder)",
+  "type": "object",
+  "additionalProperties": true
+}

@@ -1,0 +1,2 @@
+# Protocol Induction v1.0 checksum
+spec.md  SHA256  486d7c3233c9b9a7de5bb8de07b033060d1eb85a9145b85e0a7e92ef9c6d394b
