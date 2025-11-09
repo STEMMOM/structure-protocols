@@ -1,0 +1,19 @@
+{
+  "protocol_id": "language-logic-core",
+  "version": "v1.1",
+  "verified_hash": "ed13111692a3ddce466f4be138d51345bc5ed05d11cb155659c18af736bc4e57",
+  "did": "did:key:z6Mkff71g8KC2qxWegsCwDYsnCMMtH7AcYNcuUcbVTNL53NC",
+  "proof_formats": ["jwt","ldp"],
+  "artifacts": {
+    "unsigned": "credential-unsigned.json",
+    "unsigned_ldp": "credential-unsigned-ldp.json",
+    "jwt_vc": "credential.jwt",
+    "ldp_vc": "credential.ldp.json",
+    "verify": "VERIFY.md"
+  },
+  "source_folder": "/Users/susanfeltner/Documents/Proofs/Language_Logic_Core-v1.1",
+  "source_spec": "language-logic-core-specification-v1.1.md",
+  "copied_at": "2025-11-09T00:39:39Z",
+  "verified_by": "Entropy Control Theory by Susan STEM",
+  "notes": "Reference to original Proof layer at /Users/susanfeltner/Documents/Proofs/Language_Logic_Core-v1.1. Proof artifacts remain private and verifiable."
+}

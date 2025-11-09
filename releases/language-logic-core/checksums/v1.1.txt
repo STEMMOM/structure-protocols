@@ -1,0 +1,2 @@
+# Language Logic Core v1.1 checksum
+spec.md  SHA256  ed13111692a3ddce466f4be138d51345bc5ed05d11cb155659c18af736bc4e57

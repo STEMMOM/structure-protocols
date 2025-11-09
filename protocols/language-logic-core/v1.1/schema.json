@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Language Logic Core v1.1 Schema (placeholder)",
+  "type": "object",
+  "additionalProperties": true
+}
